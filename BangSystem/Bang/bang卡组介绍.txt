@@ -1,0 +1,45 @@
+卡牌说明来源：https://bang.dvgiochi.com/cardslist.php?id=1#q_result
+
+BARREL:判定为红桃则闪避bang！
+
+Dynamite（炸药）：黑桃2-9失去三体力，否则传给下家
+
+Jail：判定为红桃相安无事，否则跳过你的回合
+
+Mustang（野马）：你与别人的距离+1
+
+Remington：攻击距离3
+
+Rev.Carabine：攻击距离4
+
+Schofield：攻击距离2
+
+Scope（瞄具）：你与别人距离-1
+
+Volcanic：攻击距离1，你使用bang！无次数限制
+
+Winchester：攻击距离5
+
+bang！：攻击距离内的敌人，使其失去bullet
+
+BEER：回复生命
+
+Cat Balou：过河拆桥
+
+Duel：同决斗
+
+Catling：同万箭齐发
+
+General Store：五谷丰登
+
+Indians：南蛮入侵
+
+Missed！：闪
+
+Panic！：顺手牵羊
+
+Saloon：桃园结义
+
+Stagecoach：无中生有
+
+Wells Fargo：摸三张牌

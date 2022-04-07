@@ -1,12 +1,14 @@
 # BANG! Resources
 
-最后更新日期：2022/3/4
+最后更新日期：2022/4/7
 
 这里会保存一些Bang，Samurai Sword，三国杀的信息，规则集，原画集等。
 
 dV Games : https://www.dvgiochi.com/
 
 BANG! Official : https://bang.dvgiochi.com/index.php?lang=en
+
+emiliano sciarra : https://emilianosciarra.it/
 
 ### BANG!
 
@@ -39,3 +41,13 @@ BANG! THE DUEL - RENEGADES : https://bang.dvgiochi.com/prod.php?id=19
 BANG! THE WALKING DEAD : https://bang.dvgiochi.com/prod.php?id=9
 
 SAMURAI SWORD : https://bang.dvgiochi.com/prod.php?id=11
+
+### Links
+
+BANG!的版本 : https://emilianosciarra.it/giochi/edizioni-di-bang/
+
+BANG!的战略 : https://emilianosciarra.it/giochi/storia-di-bang/
+
+BANG!的故事 : https://emilianosciarra.it/la-storia-di-bang/
+
+BANG! Online : https://en.boardgamearena.com/gamepanel?game=bang

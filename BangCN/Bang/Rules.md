@@ -332,13 +332,17 @@ Duel不是BANG! 决斗中打出的BANG!不计入BANG!的使用次数限制。
 
 ## 游戏角色
 
-Bart Cassidy 4血：每当你失去1点体力，你立即从牌堆摸一张牌。
+Bart Cassidy 4血：每当你失去1点生命值，你立即从牌堆摸一张牌。
+
+[官网上的](https://bang.dvgiochi.com/cardslist.php?id=1#q_result) Bart Cassidy 4血：当你受到伤害后，可以摸1张牌。
 
 Black Jack 4血：摸牌阶段结束时，你必须展示你摸的第二张牌，如果是红桃或者方块，你从牌堆中摸1张牌。
 
 Calamity Janet 4血：你可以将BANG!当作Missed!，Missed!当作BANG!使用或打出。
 
 El Gringo 3血：每当你受到其他玩家造成的1点伤害后，你可以获得其一张牌（手牌或者面前的牌）。
+
+[官网上的](https://bang.dvgiochi.com/cardslist.php?id=1#q_result) El Gringo 3血：当你受到来自其他角色造成的伤害后，你获得伤害来源的1张手牌。
 
 Jesse Jones 4血：摸牌阶段，你可以选择：1.获得1张其他玩家的手牌然后从牌堆摸1张牌 2.或者从牌堆摸2张牌。
 

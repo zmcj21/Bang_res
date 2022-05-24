@@ -332,38 +332,34 @@ Duel不是BANG! 决斗中打出的BANG!不计入BANG!的使用次数限制。
 
 ## 游戏角色
 
-Bart Cassidy 4血：每当你失去1点生命值，你立即从牌堆摸一张牌。
+Bart Cassidy（4血）：每当他失去1点生命值，他立即从牌堆摸1张牌。
 
-[官网上的](https://bang.dvgiochi.com/cardslist.php?id=1#q_result) Bart Cassidy 4血：当你受到伤害后，可以摸1张牌。
+Black Jack（4血）：摸牌阶段，他必须展示他摸的第2张牌，如果其为红桃或者方块，他从牌堆额外摸1张牌（不需要展示）。
 
-Black Jack 4血：摸牌阶段结束时，你必须展示你摸的第二张牌，如果是红桃或者方块，你从牌堆中摸1张牌。
+Calamity Janet（4血）：她可以将BANG!当作Missed!或者Missed!当作BANG!使用或打出。（由Missed!转化的BANG!也受到使用次数限制）
 
-Calamity Janet 4血：你可以将BANG!当作Missed!，Missed!当作BANG!使用或打出。
+El Gringo（3血）：每当他受到其他玩家造成的1点伤害后，他可以获得其1张手牌。注意：不能通过Dynamite造成的伤害摸牌。
 
-El Gringo 3血：每当你受到其他玩家造成的1点伤害后，你可以获得其一张牌（手牌或者面前的牌）。
+Jesse Jones（4血）：摸牌阶段，他可以从牌堆或任意一名其他玩家的手牌中摸第1张牌，然后从牌堆摸第2张牌。
 
-[官网上的](https://bang.dvgiochi.com/cardslist.php?id=1#q_result) El Gringo 3血：当你受到来自其他角色造成的伤害后，你获得伤害来源的1张手牌。
+Jourdonnais（4血）：他在任何时候都视为拥有Barrel，如果他装备了真正的Barrel，那么他拥有2次通过判定闪避BANG!的机会。
 
-Jesse Jones 4血：摸牌阶段，你可以选择：1.获得1张其他玩家的手牌然后从牌堆摸1张牌 2.或者从牌堆摸2张牌。
+Kit Carlson（4血）：摸牌阶段，他可以观看牌堆顶3张牌然后从其中挑选2张获得，然后将剩下的1张牌放回牌堆顶。
 
-Jourdonnais 4血：你视为拥有Barrel，如果你已经装备了Barrel，那么你拥有2次闪避BANG!的机会。
+Lucky Duke（4血）：每当他需要判定时，他可以翻开2张判定牌，然后选择其中1张当作结果。（判定结束后，所有判定牌进入弃牌堆）
 
-Kit Carlson 4血：摸牌阶段，你可以观看牌堆顶3张牌然后从其中挑选2张获得，将剩下的牌放回牌堆顶。
+Paul Regret（3血）：他在任何时候都视为装备了Mustang，如果他面前装备了一个真正的Mustang，那么所有其他玩家与他的距离+2。
 
-Lucky Duke 4血：每当你需要判定时，你可以翻开2张判定牌，然后选择其中1张当作结果。
+Pedro Ramirez（4血）：摸牌阶段，他的第1张牌可以选择从弃牌堆顶或者从摸牌堆顶摸。然后他从摸牌堆摸第2张牌。
 
-Paul Regret 3血：你在任何时候都视为装备了Mustang，如果你面前装备了一个真正的Mustang，那么所有其他玩家与你的距离+2。
+Rose Doolan（4血）：她在任何时候都视为装备了Scope，如果她面前装备了一个真正的Scope，那么她与所有其他玩家的距离-2。
 
-Pedro Ramirez 4血：摸牌阶段开始时，你可以选择从弃牌堆顶获得1张牌，若如此做，你从摸牌堆摸1张牌。
+Sid Ketchum（4血）：在任何时候，他可以弃置2张手牌回复1点生命值。
 
-Rose Doolan 4血：你在任何时候都视为装备了Scope，如果你面前装备了一个真正的Scope，那么你与所有其他玩家的距离-2。
+Slab the Killer（4血）：他使用的BANG!需要使用2张Missed!才能闪避。（假设Barrel发动成功，也只视为使用1张Missed!）
 
-Sid Ketchum 4血：在任何时候，你都可以弃置2张手牌回复1点生命值。
+Suzy Lafayette（4血）：当她失去最后1张手牌时，她可以立即摸1张牌。
 
-Slab the Killer 4血：你使用的BANG!需要2张Missed!才能闪避。（假设Barrel发动成功，也只视为打出1张Missed!）
+Vulture Sam（4血）：当一名其他角色死亡后，他可以获得其所有牌（手牌与面前的牌）。
 
-Suzy Lafayette 4血：当你失去最后1张手牌时，你可以立即摸1张牌。
-
-Vulture Sam 4血：当一名其他角色死亡时，你可以获得其所有手牌与面前的牌。
-
-Willy the Kid 4血：你的回合内，你可以使用任意数量的BANG!。
+Willy the Kid（4血）：他的回合内，他可以使用任意数量的BANG!。

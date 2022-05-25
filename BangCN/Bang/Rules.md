@@ -363,3 +363,43 @@ Suzy Lafayette（4血）：当她失去最后1张手牌时，她可以立即摸1
 Vulture Sam（4血）：当一名其他角色死亡后，他可以获得其所有牌（手牌与面前的牌）。
 
 Willy the Kid（4血）：他的回合内，他可以使用任意数量的BANG!。
+
+## 记住
+
+1. 每回合只能使用一次BANG! 但可以使用任意张能够造成伤害的牌。
+
+1. 你不能同时装备两个同名装备。
+
+1. 你只能同时装备1把武器。
+
+1. 武器不会改变玩家之间的距离，他们只代表你的攻击距离。
+
+1. 当场上只存在两人时，Beer不再生效。
+
+1. 当你失去最后1点生命值时，你只能使用Beer，而不是Saloon。
+
+## 后记
+
+游戏创意：Emiliano Sciarra
+
+开发：Roberto Corbelli, Domenico Di Giorgio
+
+艺术：Alessandro Pierangelini
+
+艺术指导：Stefano De Fazi
+
+规则修订：Roberto Corbelli, Andrés J. Voicu
+
+BANG!® - Fourth edition
+
+## 奖项
+
+Origins awards 2003:
+
+- Best Traditional Card Game
+
+- Best Card Design
+
+Lucca Games 2002:
+
+- Best Italian Game

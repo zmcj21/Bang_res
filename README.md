@@ -1,6 +1,6 @@
 # BANG! Resources
 
-最后更新日期：2022/5/24
+最后更新日期：2022/5/25
 
 这里会保存一些Bang，Samurai Sword，三国杀的信息，规则集，原画集等。
 
@@ -49,5 +49,9 @@ BANG!的版本 : https://emilianosciarra.it/giochi/edizioni-di-bang/
 BANG!的战略 : https://emilianosciarra.it/giochi/storia-di-bang/
 
 BANG!的故事 : https://emilianosciarra.it/la-storia-di-bang/
+
+BANG! 基础游戏 : https://emilianosciarra.it/giochi/bang-gioco-base/
+
+BANG! Face Off 角色 : https://emilianosciarra.it/giochi/face-off/personaggi-promozionali-face-off/
 
 BANG! Online : https://en.boardgamearena.com/gamepanel?game=bang

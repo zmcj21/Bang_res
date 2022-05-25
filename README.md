@@ -4,11 +4,11 @@
 
 这里会保存一些Bang，Samurai Sword，三国杀的信息，规则集，原画集等。
 
-dV Games : https://www.dvgiochi.com/
-
 BANG! Official : https://bang.dvgiochi.com/index.php?lang=en
 
 emiliano sciarra : https://emilianosciarra.it/
+
+dV Games : https://www.dvgiochi.com/
 
 ### BANG!
 
